@@ -1,0 +1,23 @@
+{
+  "name": "GD Visual World Token List",
+  "logoURI": "https://github.com/GDvisualworld/gd-token-list/blob/main/logo.png",
+  "keywords": ["gd", "visual", "bsc", "defi"],
+  "timestamp": "2025-11-12T12:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xD4e8E64B3988cE0eC51cFCfbDd3814008A9d6b62",
+      "symbol": "GD",
+      "name": "Visual World",
+      "decimals": 18,
+      "logoURI": "https://github.com/GDvisualworld/gd-token-list/blob/main/logo.png",
+      "extensions": {
+        "website": "https://visualworld.com.tr",
+        "x": "https://x.com/gd_visualworld",
+        "telegram": "https://t.me/GD_VisualWorld",
+        "instagram": "https://www.instagram.com/gd_visualworld/"
+      }
+    }
+  ]
+}
